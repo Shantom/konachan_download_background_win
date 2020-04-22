@@ -1,0 +1,2 @@
+使用konachan的api来下载图片
+setter来随机设置背景
